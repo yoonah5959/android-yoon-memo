@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "yoonnote"
 include(":app")
- 
+include(":design")
